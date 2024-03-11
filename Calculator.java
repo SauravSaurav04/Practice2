@@ -1,8 +1,8 @@
 public class Calculator {
     
     static int add(int a, int b){
-        System.out.println("This is addition function");
-        return (a+b);
+        System.out.println("Hello from add");
+        return 0;
     }
     
     static int sub(int a, int b){
