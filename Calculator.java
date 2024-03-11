@@ -6,7 +6,8 @@ public class Calculator {
     }
     
     static int sub(int a, int b){
-        return 0;
+        System.out.println("Hello from sub");
+        return (a-b);
     }
     
     static int mul(int a, int b){
